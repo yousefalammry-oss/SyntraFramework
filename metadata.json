@@ -1,0 +1,6 @@
+{
+  "name": "Syntra Framework",
+  "description": "صفحة الهبوط التعريفية الراقية والمبسطة لإطار عمل Syntra Framework لحماية وتأمين سلاسل الإمداد والاستثمارات اللوجستية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
